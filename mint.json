@@ -49,7 +49,7 @@
     },
     {
       "name": "API Reference",
-      "openapi": "https://petstore3.swagger.io/api/v3/openapi.json",
+      "openapi": "https://raw.githubusercontent.com/harbuzniak/docs/refs/heads/main/api-reference/openapi.json",
       "url": "api-reference",
       "icon": "square-terminal"
     }
